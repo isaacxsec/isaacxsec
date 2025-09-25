@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Isaac Costa
 
-<!--
-**isaacxsec/isaacxsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Segurança da Informação`**
 
-Here are some ideas to get you started:
+Me chamo Isaac Costa, tenho 23 anos e atualmente curso o 1º período de Defesa Cibernética 
+Sou iniciante na área de **Cibersegurança** e apaixonado por tecnologia.  
+No momento, estou focado em aprender os fundamentos de Python, Linux, redes e segurança cibernética através da faculdade e do **Google Cybersecurity Certificate**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Objetivos atuais
+
+- Aprender Python e SQL para aplicar em segurança cibernética  
+- Praticar Linux e comandos essenciais para administração e segurança  
+- Explorar fundamentos de redes e protocolos  
+- Desenvolver projetos simples para iniciar meu portfólio  
+
+---
+
+### 📚 Interesses
+
+- Cibersegurança ofensiva e defensiva  
+- Análise de vulnerabilidades  
+- Pentest em ambientes controlados  
+- Automação de tarefas com Python  
+
+---
+
+### 📫 Onde me encontrar 
+- [E-mail](mailto:ic2026cds@gmail.com)  
